@@ -882,8 +882,7 @@
 					"$(LIBRARY_SEARCH_PATHS_QUOTED_FOR_TARGET_50)",
 					"$(LIBRARY_SEARCH_PATHS_QUOTED_FOR_TARGET_51)",
 					"$(LIBRARY_SEARCH_PATHS_QUOTED_FOR_TARGET_52)",
-					/Users/tado/Documents/of_v0.8.4_osx_release/addons/ofxOpenNI/mac/copy_to_data_openni_path/lib,
-					/Users/tado/Documents/of_v0.8.4_osx_release/addons/ofxOpenNI/win/copy_to_data_openni_path/lib,
+					../../../addons/ofxOpenNI/mac/copy_to_data_openni_path/lib,
 				);
 				PRODUCT_NAME = "$(TARGET_NAME)Debug";
 				WRAPPER_EXTENSION = app;
@@ -969,8 +968,7 @@
 					"$(LIBRARY_SEARCH_PATHS_QUOTED_FOR_TARGET_49)",
 					"$(LIBRARY_SEARCH_PATHS_QUOTED_FOR_TARGET_50)",
 					"$(LIBRARY_SEARCH_PATHS_QUOTED_FOR_TARGET_51)",
-					/Users/tado/Documents/of_v0.8.4_osx_release/addons/ofxOpenNI/mac/copy_to_data_openni_path/lib,
-					/Users/tado/Documents/of_v0.8.4_osx_release/addons/ofxOpenNI/win/copy_to_data_openni_path/lib,
+					../../../addons/ofxOpenNI/mac/copy_to_data_openni_path/lib,
 				);
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				WRAPPER_EXTENSION = app;

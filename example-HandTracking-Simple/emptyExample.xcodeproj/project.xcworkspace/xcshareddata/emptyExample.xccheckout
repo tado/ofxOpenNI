@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>33DC8787-00CC-44D3-997B-DE8752A2D634</string>
+	<key>IDESourceControlProjectName</key>
+	<string>emptyExample</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>D8811CE32924E36E8903BAF4011407E4BAF64556</key>
+		<string>https://github.com/tado/ofxOpenNI.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>example-HandTracking-Simple/emptyExample.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>D8811CE32924E36E8903BAF4011407E4BAF64556</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/tado/ofxOpenNI.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>D8811CE32924E36E8903BAF4011407E4BAF64556</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>D8811CE32924E36E8903BAF4011407E4BAF64556</string>
+			<key>IDESourceControlWCCName</key>
+			<string>ofxOpenNI</string>
+		</dict>
+	</array>
+</dict>
+</plist>
